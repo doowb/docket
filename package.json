@@ -32,5 +32,12 @@
     "lazy-cache": "^0.2.3",
     "mocha": "*",
     "write": "^0.2.1"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Brian Woodward",
+      "email": "brian.woodward@gmail.com",
+      "url": "https://github.com/doowb"
+    }
+  ]
 }
